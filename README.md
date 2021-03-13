@@ -1,5 +1,6 @@
+Stuff I've read related to AI
 # Papers
-Papers I've read
+
 
 ## Deep Learning
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
@@ -22,6 +23,8 @@ Papers I've read
 ## Reinforcement Learning
 - [A Crash Course on Reinforcement Learning](https://arxiv.org/abs/2103.04910)
 
+# Books
+- [The Deep Learning textbook](https://www.deeplearningbook.org/)
 
 # Want to read
 - [NeX: Real-time View Synthesis with Neural Basis Expansion](https://nex-mpi.github.io/)
