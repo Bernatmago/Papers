@@ -30,3 +30,4 @@ Stuff I've read related to AI
 - [NeX: Real-time View Synthesis with Neural Basis Expansion](https://nex-mpi.github.io/)
 - [Mastering Atari with Discrete World Models](https://arxiv.org/abs/2010.02193)
 - [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/pdf/2011.15126.pdf)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
