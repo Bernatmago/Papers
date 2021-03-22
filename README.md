@@ -4,6 +4,7 @@ Stuff I've read related to AI
 
 ## Deep Learning
 - [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+- [Perceiver: General Perception with Iterative Attention](https://arxiv.org/abs/2103.03206)
 ### Transfer Learning
 - [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
 - [On the Behavior of Convolutional Nets for Feature Extraction](https://arxiv.org/abs/1703.01127)
