@@ -34,7 +34,10 @@
 
 # Software Development
 ## Books
+- [Clean Code](https://www.amazon.es/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 # Videogame Development
 ## Books
 - [Gamme Programming Patterns](https://gameprogrammingpatterns.com/) Loved it!
+- [Foundations of Game Engine Development, Volume 1](https://www.amazon.es/Foundations-Game-Engine-Development-Mathematics/dp/0985811749) 🚧 in progress
+- [Learn OpenGL](https://learnopengl.com/) 🚧 in progress
